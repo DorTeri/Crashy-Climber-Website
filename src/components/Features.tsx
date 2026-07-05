@@ -11,8 +11,8 @@ const FEATURES = [
   },
   {
     emoji: "🌋",
-    title: "5 Wild Zones",
-    body: "Climb from Dirty Stone to Candy, Jungle, Factory, and molten Lava — each one faster and trickier.",
+    title: "Wild Zones",
+    body: "Climb from Dirty Stone to Candy and more zones — each one faster and trickier.",
     color: "bg-candy/15",
   },
   {
