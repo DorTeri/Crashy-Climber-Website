@@ -41,7 +41,7 @@ export default function ScreenshotShowcase() {
           transition={{ duration: 0.5 }}
           className="font-display text-3xl text-sky-dark sm:text-4xl"
         >
-          Five zones. One clumsy climber.
+          Multiple zones. One clumsy climber.
         </motion.h2>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
